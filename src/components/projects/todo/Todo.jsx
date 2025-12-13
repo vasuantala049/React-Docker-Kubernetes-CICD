@@ -87,7 +87,7 @@ export const Todo = () => {
                 </div>
             </section>
             <section className="clear-btn">
-                <button className="clr-btn" onClick={handleClear}>clear all</button>
+                <button className="clr-btn" onClick={handleClear}>Remove all</button>
             </section>
             <section className="completed">
                 <h1>Completed</h1>
