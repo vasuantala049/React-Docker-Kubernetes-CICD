@@ -59,7 +59,7 @@ export const Todo = () => {
        
         <div>
             <header className="header">
-                <h1>Todo List Web</h1>
+                <h1>Todo List</h1>
             </header>
             <h2 className="date">{dateTime}</h2>
             <div className="maindiv">
